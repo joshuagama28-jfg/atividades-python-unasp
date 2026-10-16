@@ -2,7 +2,7 @@ import requests
 import folium
 from folium.plugins import MarkerCluster
 
-TOKEN = "COLOQUE_SEU_TOKEN_AQUI_DO_SITE_SPTRANS"
+TOKEN = 9f4d1f2f53b5f131e2552c848ac28a13302a36f3f73cbe57153b381d928bf589
 BASE = "http://api.olhovivo.sptrans.com.br/v2.1"
 LINHA = "8000-10" # DIFERENTE do slide que é 175T-10
 
